@@ -1,0 +1,18 @@
+@charset "UTF-8";
+/* CSS Document */
+
+body {
+	background-image:url("images/brain-patterns.png");
+}
+.books{
+	padding-left: 6%;
+}
+.movies{
+	padding-left: 28%;
+}
+#clive-barker{
+	padding-left: 37%;
+}
+#card{
+	padding-left: 46%;
+}

@@ -1,0 +1,18 @@
+@charset "UTF-8";
+/* CSS Document */
+
+body {
+	background-image:url("images/brain-patterns.png");
+}
+.band{
+	padding-left: 18%;
+}
+#dylan{
+	padding-left: 13%;
+}
+.albums{
+	padding-left: 29%;
+}
+.videos{
+	padding-left: 29%;
+}

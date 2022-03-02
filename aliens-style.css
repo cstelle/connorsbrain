@@ -1,0 +1,13 @@
+@charset "UTF-8";
+/* CSS Document */
+
+body {
+	background-image:url("images/brain-patterns.png");
+}
+.container{
+	padding-left: 7%;
+	padding-top: 8%;
+}
+.pictures{
+	padding-left: 31%;
+}

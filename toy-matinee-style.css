@@ -1,0 +1,15 @@
+@charset "UTF-8";
+/* CSS Document */
+
+body {
+	background-image:url("images/brain-patterns.png");
+}
+.videos{
+	padding-left: 28%;	
+}
+.album{
+	padding-left: 39%;
+}
+.band{
+	padding-left: 5%;
+}

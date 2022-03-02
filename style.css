@@ -1,0 +1,21 @@
+@charset "UTF-8";
+/* CSS Document */
+
+.heading {
+	font-size: 50px;
+	text-align: center;
+	color: blue;
+	font-family: "Impact", "Haettenschweiler", "Franklin Gothic Bold", "Arial Black", "sans-serif";
+}
+body {
+	background-image:url("images/brain-patterns.png");
+}
+.videos {
+	padding-left: 7%;
+}
+.pictures {
+	padding-left: 15%;
+}
+#rsd{
+	padding-left: 35%;
+}

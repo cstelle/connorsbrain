@@ -1,0 +1,12 @@
+@charset "UTF-8";
+/* CSS Document */
+
+body {
+	background-image:url("images/brain-patterns.png");
+}
+.container{
+	padding-left: 7%;
+}
+#interviews{
+	padding-left: 40%;
+}

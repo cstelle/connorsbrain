@@ -1,0 +1,21 @@
+@charset "UTF-8";
+/* CSS Document */
+
+body {
+	background-image:url("images/brain-patterns.png");
+}
+.videos{
+	padding-left: 17%;
+}
+#marmot{
+	padding-left: 14%;
+}
+.pictures{
+	padding-left: 36%;
+}
+#coen-brothers{
+	padding-left: 34%;
+}
+.cast{
+	padding-left: 21%;
+}
